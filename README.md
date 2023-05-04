@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyashiyas&label=Profile%20views&color=0e75b6&style=flat" alt="niyashiyas" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development development**
+-💫  I’m currently learning **Full Stack Web Development development**
 
-- 👯 I’m looking to collaborate on **Exciting Projects!**
+-✨  I’m looking to collaborate on **Exciting Projects!**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/niya-shiyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyashiyas" height="30" width="40" /></a>
