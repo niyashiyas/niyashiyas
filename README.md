@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hello World 👋, I'm Niya Shiyas</h1>
+<h3 align="center">A passionate full stack web developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyashiyas&label=Profile%20views&color=0e75b6&style=flat" alt="niyashiyas" /> </p>
+
+
+
+
+
 
 <!--
 **niyashiyas/niyashiyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
