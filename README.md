@@ -24,6 +24,9 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%"   src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" ></code> 
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code> 
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></code>
